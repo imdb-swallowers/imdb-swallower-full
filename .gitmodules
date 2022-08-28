@@ -1,0 +1,6 @@
+[submodule "imdb-swallower"]
+	path = imdb-swallower
+	url = https://github.com/imdb-swallowers/imdb-swallower.git
+[submodule "imdb-swallower-bot"]
+	path = imdb-swallower-bot
+	url = https://github.com/imdb-swallowers/imdb-swallower-bot.git
